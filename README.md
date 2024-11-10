@@ -1,1 +1,1 @@
-Este es el proyecto de Ricardo Pérez
+Modificacion del archivo README por parte Sergio
